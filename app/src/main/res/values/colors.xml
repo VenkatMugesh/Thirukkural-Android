@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33dabe</color>
+    <color name="colorPrimaryDark">#28bda4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="entryButton">#1ef7d3</color>
+    <color name="backColor">#58978c</color>
+    <color name="kuralColor">#050505</color>
+    <color name="kuralOff">#fc4950</color>
+    <color name="kuralOff2">#096d38</color>
+    <color name="white">#ffffff</color>
+    <color name="viewBack">#c3c3c3</color>
+
+</resources>
